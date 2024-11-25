@@ -1,5 +1,6 @@
 # Hi there 👋, I'm Ahmed Ben Jannet
-![Dynamic Banner]()
+
+<img src="./ahmed.png" alt="avatar" width="150" >
 
 🔥 I'm a Full stack developer with solid knowledge of programming languages, curious and eager to innovate and contribute to the construction of functional applications, I also enjoy stepping outside of my comfort zone by trying new technologies
 
