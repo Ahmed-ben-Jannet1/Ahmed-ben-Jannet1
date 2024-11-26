@@ -13,18 +13,12 @@
    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img alt="Static Badge" src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=C%23&logoColor=%23E0234E&color=7A5CDF"> </div>
 
-- **Frameworks and Libraries:**  <div style="margin-top:2px"><img alt="Static Badge" src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white&color=%23000000">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img alt="Static Badge" src="https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=NestJS&logoColor=%23E0234E&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=React&logoColor=%23000000&color=%2361DAFB"> </div>
+- **Frameworks and Libraries:**  <div style="margin-top:2px"> <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white&color=%23000000"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> <img alt="Static Badge" src="https://img.shields.io/badge/NestJS-white?style=for-the-badge&logo=NestJS&logoColor=%23E0234E&color=black" />
+<img alt="Static Badge" src="https://img.shields.io/badge/ReactJS-black?style=for-the-badge&logo=React&logoColor=%23000000&color=%2361DAFB" /> </div>
 
-- **Database:**  <div style="margin-top:2px"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=white&color=%230079D6">
-<img alt="Static Badge" src="https://img.shields.io/badge/NOSQL-black?style=for-the-badge&logo=sql&logoColor=white&color=%23394668">
-<img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1">
-<img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248"> </div>
+- **Database:**  <div style="margin-top:2px"> <img alt="Static Badge" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=white&color=%230079D6" /> <img alt="Static Badge" src="https://img.shields.io/badge/NOSQL-black?style=for-the-badge&logo=sql&logoColor=white&color=%23394668" /> <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white&color=%234169E1" /> <img alt="Static Badge" src="https://img.shields.io/badge/MONGODB-black?style=for-the-badge&logo=mongodb&logoColor=white&color=%2347A248" /> </div>
 
-- **Others:**  <div style="margin-top:2px"> <img alt="Static Badge" src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=black&color=%23F05032">
-<img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED"> </div>
+- **Others:**  <div style="margin-top:2px"> <img alt="Static Badge" src="https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=black&color=%23F05032"> <img alt="Static Badge" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white&color=%232496ED"> </div>
 
 
 Let's connect:
