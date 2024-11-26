@@ -17,4 +17,8 @@
 Let's connect:
 - 🌐 [Portfolio](https://ahmed-benjannet.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-ben-jannet-4354a41bb/)
+  
+  ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ben-Jannet1&style=flat-square&color=blue)
 
