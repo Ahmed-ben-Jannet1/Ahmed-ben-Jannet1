@@ -20,5 +20,3 @@ Let's connect:
   
   ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-ben-Jannet1&style=flat-square&color=blue)
-
