@@ -3,7 +3,7 @@
 <div align="center">
 <img src="./ahmed.png" alt="avatar" width="300" >
 </div>
-🔥 I'm a Full stack developer with solid knowledge of programming languages, curious and eager to innovate and contribute to the construction of functional applications, I also enjoy stepping outside of my comfort zone by trying new technologies
+🔥 I'm a Full-Stack Developer with proven expertise in JavaScript and TypeScript, delivering high-performance applications with measurable impact. Demonstrated success in delivering robust software solutions, with a focus on problem-solving, collaboration, and performance optimization. Skilled in leveraging modern frameworks and technologies to achieve measurable outcomes.
 
 ---
 
